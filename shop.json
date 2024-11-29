@@ -29,7 +29,7 @@
     "vendor_code": "444e",
     "description": "Описание 4",
     "price": 400,
-    "img": "samovar.jpg"
+    "img": "samovar.webp"
   },
   {
     "id": "5",
@@ -45,7 +45,7 @@
     "vendor_code": "4446e",
     "description": "Описание 6",
     "price": 400,
-    "img": "angel.png"
+    "img": "angel.jpg"
   },
   {
     "id": "7",
@@ -53,7 +53,7 @@
     "vendor_code": "4447e",
     "description": "Описание 7",
     "price": 700,
-    "img": "maslo.png"
+    "img": "maslo.jpg"
   },
   {
     "id": "8",
@@ -61,6 +61,6 @@
     "vendor_code": "4448e",
     "description": "Описание 8",
     "price": 800,
-    "img": "magnit.png"
+    "img": "magnit.webp"
   }
 ]
