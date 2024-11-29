@@ -45,7 +45,7 @@
     "vendor_code": "4446e",
     "description": "Описание 6",
     "price": 400,
-    "img": "angel.jpg"
+    "img": "angel.jpeg"
   },
   {
     "id": "7",
@@ -53,7 +53,7 @@
     "vendor_code": "4447e",
     "description": "Описание 7",
     "price": 700,
-    "img": "maslo.jpg"
+    "img": "maslo.jpeg"
   },
   {
     "id": "8",
@@ -61,6 +61,6 @@
     "vendor_code": "4448e",
     "description": "Описание 8",
     "price": 800,
-    "img": "magnit.webp"
+    "img": "magnit.jpg"
   }
 ]
